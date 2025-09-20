@@ -1,0 +1,101 @@
+test_id,test_name,category,cost
+1,Outside Test,CT Scan,4000
+2,Plant Test,Urine,300
+3,Wife Test,MRI,6000
+4,Real Test,Urine,300
+5,Security Test,MRI,6000
+6,Drug Test,MRI,6000
+7,Left Test,CT Scan,4000
+8,Watch Test,MRI,6000
+9,Reality Test,Biopsy,5000
+10,Along Test,MRI,6000
+11,Suggest Test,X-Ray,800
+12,Notice Test,Urine,300
+13,Political Test,X-Ray,800
+14,Film Test,X-Ray,800
+15,Gas Test,Blood,1000
+16,Scientist Test,MRI,6000
+17,Option Test,CT Scan,4000
+18,Others Test,X-Ray,800
+19,Cost Test,MRI,6000
+20,Adult Test,Blood,1000
+21,Morning Test,X-Ray,800
+22,Born Test,CT Scan,4000
+23,Ten Test,X-Ray,800
+24,Vote Test,CT Scan,4000
+25,Couple Test,Biopsy,5000
+26,Discussion Test,Urine,300
+27,Box Test,MRI,6000
+28,Should Test,Biopsy,5000
+29,For Test,CT Scan,4000
+30,They Test,X-Ray,800
+31,Try Test,Blood,1000
+32,Institution Test,Blood,1000
+33,Oil Test,CT Scan,4000
+34,Standard Test,CT Scan,4000
+35,Happy Test,Urine,300
+36,Officer Test,X-Ray,800
+37,Mouth Test,MRI,6000
+38,Far Test,Blood,1000
+39,Spring Test,X-Ray,800
+40,Can Test,Urine,300
+41,Then Test,MRI,6000
+42,Matter Test,Blood,1000
+43,First Test,X-Ray,800
+44,Allow Test,MRI,6000
+45,Expect Test,CT Scan,4000
+46,Order Test,X-Ray,800
+47,Prevent Test,X-Ray,800
+48,Avoid Test,CT Scan,4000
+49,Surface Test,CT Scan,4000
+50,Later Test,Blood,1000
+51,Break Test,X-Ray,800
+52,Everyone Test,Blood,1000
+53,Article Test,Blood,1000
+54,Human Test,Blood,1000
+55,Action Test,Urine,300
+56,First Test,Biopsy,5000
+57,Modern Test,CT Scan,4000
+58,Study Test,Biopsy,5000
+59,Themselves Test,MRI,6000
+60,Century Test,CT Scan,4000
+61,During Test,CT Scan,4000
+62,Be Test,Blood,1000
+63,Either Test,Urine,300
+64,Receive Test,Blood,1000
+65,Quickly Test,Biopsy,5000
+66,Community Test,MRI,6000
+67,Get Test,Biopsy,5000
+68,Officer Test,Urine,300
+69,Glass Test,X-Ray,800
+70,System Test,X-Ray,800
+71,East Test,Blood,1000
+72,Citizen Test,Urine,300
+73,Owner Test,Urine,300
+74,Interview Test,Blood,1000
+75,Smile Test,MRI,6000
+76,Nor Test,Biopsy,5000
+77,Exist Test,Urine,300
+78,Read Test,Biopsy,5000
+79,Scientist Test,Urine,300
+80,Medical Test,X-Ray,800
+81,Effort Test,Urine,300
+82,Statement Test,Biopsy,5000
+83,Onto Test,MRI,6000
+84,Require Test,X-Ray,800
+85,Measure Test,X-Ray,800
+86,Nation Test,Urine,300
+87,Opportunity Test,MRI,6000
+88,Government Test,X-Ray,800
+89,Movement Test,Urine,300
+90,Read Test,Blood,1000
+91,Television Test,Biopsy,5000
+92,Attention Test,Biopsy,5000
+93,In Test,Urine,300
+94,Group Test,CT Scan,4000
+95,Computer Test,MRI,6000
+96,Street Test,Urine,300
+97,Medical Test,Blood,1000
+98,Cover Test,Biopsy,5000
+99,Never Test,MRI,6000
+100,House Test,X-Ray,800
