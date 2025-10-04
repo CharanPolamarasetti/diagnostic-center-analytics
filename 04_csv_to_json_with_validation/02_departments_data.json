@@ -1,0 +1,42 @@
+[
+    {
+        "department_id": 1,
+        "department_name": "Adult Department"
+    },
+    {
+        "department_id": 2,
+        "department_name": "Partner Department"
+    },
+    {
+        "department_id": 3,
+        "department_name": "Hold Department"
+    },
+    {
+        "department_id": 4,
+        "department_name": "Computer Department"
+    },
+    {
+        "department_id": 5,
+        "department_name": "Ground Department"
+    },
+    {
+        "department_id": 6,
+        "department_name": "Degree Department"
+    },
+    {
+        "department_id": 7,
+        "department_name": "Man Department"
+    },
+    {
+        "department_id": 8,
+        "department_name": "Stop Department"
+    },
+    {
+        "department_id": 9,
+        "department_name": "Land Department"
+    },
+    {
+        "department_id": 10,
+        "department_name": "Pretty Department"
+    }
+]
